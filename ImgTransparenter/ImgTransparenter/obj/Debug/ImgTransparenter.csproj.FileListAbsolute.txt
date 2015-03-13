@@ -1,0 +1,10 @@
+c:\users\michhorak\documents\visual studio 2013\Projects\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.csprojResolveAssemblyReference.cache
+c:\users\michhorak\documents\visual studio 2013\Projects\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.Form1.resources
+c:\users\michhorak\documents\visual studio 2013\Projects\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.Properties.Resources.resources
+c:\users\michhorak\documents\visual studio 2013\Projects\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.csproj.GenerateResource.Cache
+c:\users\michhorak\documents\visual studio 2013\Projects\ImgTransparenter\ImgTransparenter\bin\Debug\ImgTransparenter.exe
+c:\users\michhorak\documents\visual studio 2013\Projects\ImgTransparenter\ImgTransparenter\bin\Debug\ImgTransparenter.pdb
+c:\users\michhorak\documents\visual studio 2013\Projects\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.exe
+c:\users\michhorak\documents\visual studio 2013\Projects\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.pdb
+C:\Users\Michi\Documents\Visual Studio 2013\Projects\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.exe
+C:\Users\Michi\Documents\Visual Studio 2013\Projects\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.pdb
