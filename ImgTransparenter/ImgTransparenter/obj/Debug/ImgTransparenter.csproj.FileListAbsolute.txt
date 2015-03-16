@@ -8,3 +8,11 @@ c:\users\michhorak\documents\visual studio 2013\Projects\ImgTransparenter\ImgTra
 c:\users\michhorak\documents\visual studio 2013\Projects\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.pdb
 C:\Users\Michi\Documents\Visual Studio 2013\Projects\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.exe
 C:\Users\Michi\Documents\Visual Studio 2013\Projects\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.pdb
+C:\Users\Filipsi\Documents\GitHub\ImgTransparenter\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.exe
+C:\Users\Filipsi\Documents\GitHub\ImgTransparenter\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.pdb
+C:\Users\Filipsi\Documents\GitHub\ImgTransparenter\ImgTransparenter\ImgTransparenter\bin\Debug\ImgTransparenter.exe
+C:\Users\Filipsi\Documents\GitHub\ImgTransparenter\ImgTransparenter\ImgTransparenter\bin\Debug\ImgTransparenter.pdb
+C:\Users\Filipsi\Documents\GitHub\ImgTransparenter\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.csprojResolveAssemblyReference.cache
+C:\Users\Filipsi\Documents\GitHub\ImgTransparenter\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.FormTransparenter.resources
+C:\Users\Filipsi\Documents\GitHub\ImgTransparenter\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.Properties.Resources.resources
+C:\Users\Filipsi\Documents\GitHub\ImgTransparenter\ImgTransparenter\ImgTransparenter\obj\Debug\ImgTransparenter.csproj.GenerateResource.Cache

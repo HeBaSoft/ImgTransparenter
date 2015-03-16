@@ -3,19 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace ImgTransparenter
-{
-    static class Program
-    {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+namespace ImgTransparenter {
+    static class Program {
+
+        public static FormTransparenter MainForm = new FormTransparenter();
+
         [STAThread]
-        static void Main()
-        {
+        static void Main() {
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(MainForm);
         }
     }
 }
